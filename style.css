@@ -1,0 +1,54 @@
+.positive-diff {
+   color: green;
+}
+
+.negative-diff {
+   color: red;
+}
+
+.tableFixHead { 
+   overflow-y: auto; 
+   height: 500px; 
+}
+.tableFixHead thead th { 
+   position: sticky; 
+   top: 0; 
+}
+
+/* Just common table stuff. Really. */
+table  { 
+   border-collapse: collapse; 
+   width: 100%; 
+}
+th, td { 
+   padding: 8px 16px; 
+}
+th { 
+   background:#eee; 
+}
+
+.luno-col {
+   background-color: grey
+}
+
+.table-header {
+   text-align: center
+}
+
+.loading-div {
+   text-align: center
+}
+
+h2 {
+   font-weight: bold;
+   padding: 10px;
+}
+
+p {
+   font-weight: bold;
+}
+
+.heading-line {
+   border-top:1px solid #00a8cc;
+}
+
