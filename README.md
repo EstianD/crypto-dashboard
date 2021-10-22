@@ -1,5 +1,7 @@
 ## Project Description
 
+The purpose of this app was to gather data from different crypto exchanges and display price price movement trends with a chart and a timestamped table.  
+
 This is the frontend for the crypto dashboard written in HTML, CSS and javscript. This is the presentation of the gathered data by the crypto cron and exchange cron repos listed below. The project has a backend API written in Node.js. All project repos are listed below:<br/>
 
 [crypto-api](https://github.com/EstianD/crypto-api)<br/> [exchangeCron](https://github.com/EstianD/exchange-cron-no-express)<br/>
